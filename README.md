@@ -4,6 +4,16 @@
 - 💬 Online show case link is <a href="https://32lhdx.csb.app/" > here<a/>
 
 
+# Overview
+- 🚧 under construction 🚧 
+
+
+# Task List
+- [x] Creating working envoriment of the game
+- [x] Changing better style (maybe changing different style later)
+- [ ] Adding different calculation functions  
+
+
 <h3 align="left">WHich language did I use :</h3>
 <p align="left"> 
  
