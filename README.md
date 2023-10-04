@@ -1,7 +1,7 @@
 # Simple Calculator
 
 - 🌱 İt is a simple calculator, created on CodeSandbox for freecode front end development libraries certification.
-- 💬 Online show case link is <a href="https://32lhdx.csb.app/" > here<a/>
+- 💬 Online showcase link is <a href="https://32lhdx.csb.app/" > here<a/>
 
 
 # Overview
